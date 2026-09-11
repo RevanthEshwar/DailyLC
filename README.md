@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RevanthEshwar/DailyLC/tree/master/0326-power-of-three) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
