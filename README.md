@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/RevanthEshwar/DailyLC/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/RevanthEshwar/DailyLC/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
@@ -51,8 +52,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RevanthEshwar/DailyLC/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
