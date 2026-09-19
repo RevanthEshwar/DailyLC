@@ -5,9 +5,9 @@ class Solution {
 
         int dist1=xCenter-clox;
         int dist2=yCenter-cloy;
-
-        int res=(int)Math.sqrt((dist1*dist1)+(dist2*dist2));
-        if(res<=radius){
+        //int res=(dist1*dist1)+(dist2*dist2);
+       int res=(int)Math.sqrt((dist1*dist1)+(dist2*dist2));
+        if((res)<=(radius)){
             return true;
         }
         return false;
