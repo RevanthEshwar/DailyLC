@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 ## Recursion
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -87,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RevanthEshwar/DailyLC/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
