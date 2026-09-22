@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [3904-smallest-stable-index-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3904-smallest-stable-index-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Geometry
 |  |
 | ------- |
