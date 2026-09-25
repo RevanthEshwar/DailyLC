@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RevanthEshwar/DailyLC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/RevanthEshwar/DailyLC/tree/master/3870-count-commas-in-range) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
@@ -96,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
