@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
