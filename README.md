@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RevanthEshwar/DailyLC/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/RevanthEshwar/DailyLC/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0941-valid-mountain-array](https://github.com/RevanthEshwar/DailyLC/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
