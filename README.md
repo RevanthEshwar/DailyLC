@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RevanthEshwar/DailyLC/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0941-valid-mountain-array](https://github.com/RevanthEshwar/DailyLC/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RevanthEshwar/DailyLC/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
