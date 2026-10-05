@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/RevanthEshwar/DailyLC/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RevanthEshwar/DailyLC/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3904-smallest-stable-index-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RevanthEshwar/DailyLC/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/RevanthEshwar/DailyLC/tree/master/1051-height-checker) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RevanthEshwar/DailyLC/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
