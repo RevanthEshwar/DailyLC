@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/RevanthEshwar/DailyLC/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/0930-binary-subarrays-with-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RevanthEshwar/DailyLC/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RevanthEshwar/DailyLC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
@@ -89,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
