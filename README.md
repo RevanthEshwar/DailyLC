@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RevanthEshwar/DailyLC/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RevanthEshwar/DailyLC/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0219-contains-duplicate-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/RevanthEshwar/DailyLC/tree/master/0303-range-sum-query-immutable) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RevanthEshwar/DailyLC/tree/master/0485-max-consecutive-ones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/RevanthEshwar/DailyLC/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RevanthEshwar/DailyLC/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
