@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RevanthEshwar/DailyLC/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RevanthEshwar/DailyLC/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
