@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RevanthEshwar/DailyLC/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RevanthEshwar/DailyLC/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/RevanthEshwar/DailyLC/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/RevanthEshwar/DailyLC/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/RevanthEshwar/DailyLC/tree/master/0941-valid-mountain-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RevanthEshwar/DailyLC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/RevanthEshwar/DailyLC/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/RevanthEshwar/DailyLC/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RevanthEshwar/DailyLC/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
