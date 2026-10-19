@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RevanthEshwar/DailyLC/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RevanthEshwar/DailyLC/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RevanthEshwar/DailyLC/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/RevanthEshwar/DailyLC/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RevanthEshwar/DailyLC/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/RevanthEshwar/DailyLC/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
