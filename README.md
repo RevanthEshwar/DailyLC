@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthEshwar/DailyLC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RevanthEshwar/DailyLC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2469-convert-the-temperature](https://github.com/RevanthEshwar/DailyLC/tree/master/2469-convert-the-temperature) |
+| [3516-find-closest-person](https://github.com/RevanthEshwar/DailyLC/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RevanthEshwar/DailyLC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/RevanthEshwar/DailyLC/tree/master/3870-count-commas-in-range) |
