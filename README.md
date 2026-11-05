@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RevanthEshwar/DailyLC/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RevanthEshwar/DailyLC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1480-running-sum-of-1d-array) |
+| [1816-truncate-sentence](https://github.com/RevanthEshwar/DailyLC/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RevanthEshwar/DailyLC/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RevanthEshwar/DailyLC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1816-truncate-sentence](https://github.com/RevanthEshwar/DailyLC/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/RevanthEshwar/DailyLC/tree/master/2942-find-words-containing-character) |
 ## Queue
 |  |
