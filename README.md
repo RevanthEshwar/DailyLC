@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/RevanthEshwar/DailyLC/tree/master/0976-largest-perimeter-triangle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthEshwar/DailyLC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RevanthEshwar/DailyLC/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RevanthEshwar/DailyLC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/RevanthEshwar/DailyLC/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RevanthEshwar/DailyLC/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RevanthEshwar/DailyLC/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthEshwar/DailyLC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Indexed Tree
 |  |
 | ------- |
