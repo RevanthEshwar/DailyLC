@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RevanthEshwar/DailyLC/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RevanthEshwar/DailyLC/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/RevanthEshwar/DailyLC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2347-best-poker-hand](https://github.com/RevanthEshwar/DailyLC/tree/master/2347-best-poker-hand) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RevanthEshwar/DailyLC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3731-find-missing-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RevanthEshwar/DailyLC/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RevanthEshwar/DailyLC/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3731-find-missing-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
