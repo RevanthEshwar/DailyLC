@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RevanthEshwar/DailyLC/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RevanthEshwar/DailyLC/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/RevanthEshwar/DailyLC/tree/master/1534-count-good-triplets) |
 | [1816-truncate-sentence](https://github.com/RevanthEshwar/DailyLC/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/RevanthEshwar/DailyLC/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RevanthEshwar/DailyLC/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/RevanthEshwar/DailyLC/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RevanthEshwar/DailyLC/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
