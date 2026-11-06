@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/RevanthEshwar/DailyLC/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RevanthEshwar/DailyLC/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RevanthEshwar/DailyLC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/RevanthEshwar/DailyLC/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -271,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/RevanthEshwar/DailyLC/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3701-compute-alternating-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
