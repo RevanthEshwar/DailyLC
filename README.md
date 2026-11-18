@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/RevanthEshwar/DailyLC/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RevanthEshwar/DailyLC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/RevanthEshwar/DailyLC/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/RevanthEshwar/DailyLC/tree/master/1816-truncate-sentence) |
