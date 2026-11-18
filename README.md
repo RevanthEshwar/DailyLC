@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/RevanthEshwar/DailyLC/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/RevanthEshwar/DailyLC/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/RevanthEshwar/DailyLC/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/RevanthEshwar/DailyLC/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0509-fibonacci-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/RevanthEshwar/DailyLC/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/RevanthEshwar/DailyLC/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RevanthEshwar/DailyLC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/RevanthEshwar/DailyLC/tree/master/1108-defanging-an-ip-address) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/RevanthEshwar/DailyLC/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RevanthEshwar/DailyLC/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RevanthEshwar/DailyLC/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/RevanthEshwar/DailyLC/tree/master/3701-compute-alternating-sum) |
