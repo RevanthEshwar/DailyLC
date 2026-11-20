@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RevanthEshwar/DailyLC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RevanthEshwar/DailyLC/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/RevanthEshwar/DailyLC/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/RevanthEshwar/DailyLC/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/RevanthEshwar/DailyLC/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RevanthEshwar/DailyLC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/RevanthEshwar/DailyLC/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/RevanthEshwar/DailyLC/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/RevanthEshwar/DailyLC/tree/master/0645-set-mismatch) |
 ## Sorting
